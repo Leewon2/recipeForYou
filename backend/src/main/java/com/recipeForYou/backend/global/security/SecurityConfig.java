@@ -33,7 +33,6 @@
 //        DefaultOAuth2UserService delegate = new DefaultOAuth2UserService();
 //        return (request) -> {
 //            OAuth2User oAuth2User = delegate.loadUser(request);
-//            // 여기에서 사용자 정보를 기반으로 추가적인 처리를 할 수 있습니다.
 //            return oAuth2User;
 //        };
 //    }
