@@ -1,0 +1,40 @@
+.home-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('./img/thinking.png');
+    background-position: 6%;
+    background-size: 50%;
+}
+
+.content-box {
+    text-align: center;
+    
+    
+    background-position: center;
+    padding: 150px;
+    border-radius: 10px;
+}
+
+
+.kakao-login-btn {
+    background-color: #FEE500;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.kakao-login-btn:hover {
+    background-color: #EDD400;
+}
+
+.font-style{
+    font-family: "seolleimcool-SemiBold";
+    font-size: 300%;
+    font-weight: 1000;
+}
+
